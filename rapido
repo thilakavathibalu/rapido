@@ -13,7 +13,7 @@ print("With list:", random.sample(list1, 3))
 # Prints list of random items of
 # length 4 from the given string.
 string = "GeeksforGeeks"
-print("With string:", random.sample(string, 4))
+print(string:", random.sample(string, 4))
 
 # Prints list of random items of
 # length 4 from the given tuple.
